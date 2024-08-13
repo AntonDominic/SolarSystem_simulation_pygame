@@ -2,4 +2,4 @@
 
 A Solar System Simulation Project with exact Physical laws and accurate Astronomical values using Pygame module in Python.
 
-I have used exact values of mass of planets, it's orbital velocity and it's color code.   
+I have used the exact values for the mass of planets, orbital velocity and the color code of Planets.   
